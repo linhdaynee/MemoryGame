@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1717090457 source:c:\users\admin\documents\codecuanlinh\gamecuanlinh\gamebase.cpp
+	"GameBase.h"
+
+1717025724 c:\users\admin\documents\codecuanlinh\gamecuanlinh\gamebase.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<random>
+	<algorithm>
+	"card.h"
+
+1717086341 c:\users\admin\documents\codecuanlinh\gamecuanlinh\card.h
+	"GameBase.h"
+
+1717091635 source:c:\users\admin\documents\codecuanlinh\gamecuanlinh\main.cpp
+	"card.h"
+	"Text.h"
+	"GameBase.h"
+	"menu.h"
+
+1717025724 c:\users\admin\documents\codecuanlinh\gamecuanlinh\text.h
+	"GameBase.h"
+
+1717090457 c:\users\admin\documents\codecuanlinh\gamecuanlinh\menu.h
+	"GameBase.h"
+	"Text.h"
+	"card.h"
+
+1717025724 source:c:\users\admin\documents\codecuanlinh\gamecuanlinh\text.cpp
+	"Text.h"
+
